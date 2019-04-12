@@ -1,0 +1,31 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.wp_dev_flag {
+	padding: 1rem;
+	border: 1px solid #ccc;
+	background-color: white;
+}
+
+.wp_dev_flag.active {
+	border: 1px solid #4caf506b;
+	background-color: #4caf502b;
+}
+
+.wp_dev_flag li {
+	margin-bottom: 1rem;
+}
+
+.match {
+	display: inline-block;
+	padding: 0.25rem;
+	background-color: #4caf506b;
+}
+
+.nomatch {
+	display: inline-block;
+	padding: 0.25rem;
+	color: #fff;
+	background-color: #d33;
+}
