@@ -1,5 +1,7 @@
 # WP Dev Flag
 
+Link to WordPress.org Repo: https://wordpress.org/plugins/wp-dev-flag/
+
 ![banner-1544x500](https://user-images.githubusercontent.com/1681063/56038858-dd0ae880-5d2a-11e9-9d70-f423c0f63b3d.png)
 
 - Contributors: chrisjallen
